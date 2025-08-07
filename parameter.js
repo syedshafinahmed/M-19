@@ -7,9 +7,15 @@ function bhaatKhao(){
 // bhaatKhao();
 
 function square(x){
-    square = x * x;
-    return square;
+    borgo = x * x;
+    // return square;
+    console.log(borgo);
 }
 
-let borgo = square(11);
-console.log(borgo);
+// let borgo = square(11);
+// console.log(borgo);
+
+square(11);
+square(12);
+square(13);
+square(14);
